@@ -1,4 +1,4 @@
-python3 room_voice.py "begin the review" calm
+python3 room_voice.py "REQUEST DENIED" regular
 
 ## First parameter is the sentence
 
